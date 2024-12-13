@@ -1,0 +1,12 @@
+**/*.js
+/*.js
+**/*.d.ts
+/*.d.ts
+node_modules
+build
+android
+ios
+src/@types
+
+README.md
+todo.md
